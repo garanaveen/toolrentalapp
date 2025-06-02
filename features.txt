@@ -10,15 +10,18 @@ Basic features,
 "Lender" mode,
 * Lending user should be able to take a snapshot of the tool and create a listing using their phone.
 * Listings should be persistent (saved in aws?)
+* User should be able to block the availability of the tools with a calendar.
+
+Common features for both modes,
 * Be able to DM another user. Other users should get notification.
 * There should be a dedicated chat window where two users can talk.
 * There should be a notification icon indicating any unread notifications.
 
 
-
 Future features,
 Connect your phone number so that Borrower can reach you easily. 
 As this is primarily being developed for Deerbrooke community, there should be an option to reach out on WhatsApp.
+
 
 
 Since, we can use AI heavily, we can go with TestDrivenDevelopment style for easy testing.
