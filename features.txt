@@ -1,0 +1,22 @@
+Develop a PWA style app that can be wrapped and installed as ios app and android app.
+Basic features, 
+* google-login.
+* Users should default to "Borrower" mode. They can switch to "Lender" mode with a click of a button.
+* The UI should be different for "Borrower" mode and "Lender" mode.
+
+"Borrower" mode,
+* Borrowing user should be able to search and match tools listed only in nearby locations (give 5/10/20 mile radius options).
+
+"Lender" mode,
+* Lending user should be able to take a snapshot of the tool and create a listing using their phone.
+* Listings should be persistent (saved in aws?)
+* Be able to DM another user. Other users should get notification.
+* There should be a dedicated chat window where two users can talk.
+* There should be a notification icon indicating any unread notifications.
+
+
+
+Future features,
+Connect your phone number so that Borrower can reach you easily. 
+As this is primarily being developed for Deerbrooke community, there should be an option to reach out on WhatsApp.
+
