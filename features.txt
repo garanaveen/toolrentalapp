@@ -20,3 +20,6 @@ Future features,
 Connect your phone number so that Borrower can reach you easily. 
 As this is primarily being developed for Deerbrooke community, there should be an option to reach out on WhatsApp.
 
+
+Since, we can use AI heavily, we can go with TestDrivenDevelopment style for easy testing.
+
