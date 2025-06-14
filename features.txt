@@ -37,3 +37,13 @@ As this is primarily being developed for Deerbrooke community, there should be a
 Since, we can use AI heavily, we can go with TestDrivenDevelopment style for easy testing.
 
 
+
+UX Spec,
+The landing page of the website should have a way to search tools based on their location.
+When they try to reserve a tool, they should be asked to signup.
+Once joined if the user isn't a part of any communities, they should be asked to join communities for more visibility of the tool listings.
+They should also be allowed to create communities. Once community is created, there should be a way to create a link for that particular community.
+
+When another user opens that community based link, they should be able to signup and join that community with which they signed up.
+
+
