@@ -1,6 +1,6 @@
 Tool Rental App that which is basically a marketplace for tool rentals.
 
-Develop a PWA style app that can be wrapped and installed as ios app and android app.
+Develop a PWA style app that can be wrapped and installed as ios app and android app. Since its a web-app, it should be available on any modern web browser too.
 
 Basic features, 
 * google-login.
