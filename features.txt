@@ -1,11 +1,4 @@
-I am developing a Tool Rental App that which is basically a marketplace for tool rentals. This is focused on smaller groups (ex. people living in the same community). The main idea is that people are more willing to lend/share their tools to people that are living in the community.
-
-Anyone can create a community (with a unique name. Think subreddit). Once a community is created, anyone can join that community.
-
-A user can be a part of one or more communities or just be alone. By default, any lender-user who lists their items are listed in all the communities they have joined.
-Similarly, a borrower-user is able to see all the tool listings that are part of the community they are in.
-
-Any lender-user has an option to limit their tool listing visiblility only to communities they are a part of (this is the default option). They have the option to make the tool listing public that way anyone irrespective of whether they are a part of community or not will be able to see the listings.
+Tool Rental App that which is basically a marketplace for tool rentals.
 
 Develop a PWA style app that can be wrapped and installed as ios app and android app.
 
@@ -33,17 +26,31 @@ Connect your phone number so that Borrower can reach you easily.
 As this is primarily being developed for Deerbrooke community, there should be an option to reach out on WhatsApp.
 
 
-
 Since, we can use AI heavily, we can go with TestDrivenDevelopment style for easy testing.
 
 
-
 UX Spec,
-The landing page of the website should have a way to search tools based on their location.
+The landing page of the website should have a way to search tools based on their location without having to signup.
 When they try to reserve a tool, they should be asked to signup.
-Once joined if the user isn't a part of any communities, they should be asked to join communities for more visibility of the tool listings.
+
+----------------------------------------
+COMMUNITIES : Future feature
+----------------------------------------
+
+Tool Rental App that which is basically a marketplace for tool rentals. This is focused on smaller groups (ex. people living in the same community). The main idea is that people are more willing to lend/share their tools to people that are living in the community.
+
+Anyone can create a community (with a unique name. Think subreddit). Once a community is created, anyone can join that community.
+
+A user can be a part of one or more communities or just be alone. By default, any lender-user who lists their items are listed in all the communities they have joined.
+Similarly, a borrower-user is able to see all the tool listings that are part of the community they are in.
+
+Any lender-user has an option to limit their tool listing visiblility only to communities they are a part of (this is the default option). They have the option to make the tool listing public that way anyone irrespective of whether they are a part of community or not will be able to see the listings.
+
+
+Once user signs-up, if the user isn't a part of any communities, they should be asked to join communities for more visibility of the tool listings.
 They should also be allowed to create communities. Once community is created, there should be a way to create a link for that particular community.
 
 When another user opens that community based link, they should be able to signup and join that community with which they signed up.
 
+----------------------------------------
 
